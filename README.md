@@ -1,2 +1,26 @@
 # content-editor-portfolio
 Content editing, SEO writing, fact-checking, and AI-assisted editorial portfolio focused on gaming, technology, and digital consumer content
+
+# Andriani Novitasari – Content Editor Portfolio
+
+Content Editor | AI Content Quality | Research & Fact-Checking
+
+I am a research, content-quality, and AI evaluation professional with experience in analytical writing, fact-checking, source validation, content review, and evaluating AI-generated content.
+
+I currently work on remote AI evaluation projects with RWS TrainAI and TELUS Digital.
+
+## Portfolio Projects
+
+1. Gaming Buying Guide
+2. Commercial Content Comparison
+3. SEO Content Refresh Case Study
+4. AI-Assisted Editorial Workflow
+
+## Areas of Interest
+
+Gaming | Technology | AI | Digital Marketplaces | Consumer Content | SEO
+
+## Contact
+
+Email: novitasariandriani888@gmail.com
+Location: Indonesia | Available for Remote Work
