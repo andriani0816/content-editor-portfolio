@@ -12,7 +12,7 @@ I currently work on remote AI evaluation projects with RWS TrainAI and TELUS Dig
 ## Portfolio Projects
 
 1. [Gaming Buying Guide - Buying Digital Games Online: 7 Things to Check Before You Buy] (01-gaming-buying-guide.md)
-2. Commercial Content Comparison
+2. Commercial Content Comparison – Standard vs Deluxe Game Editions: Is the Upgrade Worth It?](02-game-edition-comparison.md)
 3. SEO Content Refresh Case Study
 4. AI-Assisted Editorial Workflow
 
